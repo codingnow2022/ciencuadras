@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="431px" height="431px" viewBox="0 0 431 431" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>form</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="22.2046241%" y1="-4.51435791%" x2="24.9935902%" y2="92.5546599%" id="linearGradient-1">
+            <stop stop-color="#3E98CC" offset="0%"></stop>
+            <stop stop-color="#E6F6FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="22.2046241%" y1="-4.51435791%" x2="24.9935902%" y2="92.5546599%" id="linearGradient-2">
+            <stop stop-color="#E5F5FF" offset="0%"></stop>
+            <stop stop-color="#E3E8FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="bg-closet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="form" transform="translate(1.029529, 1.000000)">
+            <circle id="Mask" fill="url(#linearGradient-1)" cx="213.966422" cy="215.004049" r="204.994738"></circle>
+            <path d="M214.485235,428.970471 C332.94216,428.970471 428.970471,332.94216 428.970471,214.485235 C428.970471,96.0283108 332.94216,-5.68434189e-14 214.485235,-5.68434189e-14 C96.0283108,-5.68434189e-14 -1.98951966e-13,96.0283108 -1.98951966e-13,214.485235 C-1.98951966e-13,332.94216 96.0283108,428.970471 214.485235,428.970471 Z" id="Oval" stroke="url(#linearGradient-2)" stroke-width="1.66856182" stroke-dasharray="3.337123540526662,3.337123540526662" transform="translate(214.485235, 214.485235) scale(-1, 1) translate(-214.485235, -214.485235) "></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="708px" height="127px" viewBox="0 0 708 127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>bg-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#002C48" offset="0%"></stop>
+            <stop stop-color="#0FAADF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#002C48" offset="0%"></stop>
+            <stop stop-color="#0FAADF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bg-logo">
+            <path d="M355.127137,0.521405532 L353,0.521405532 C471.375712,0.521405532 589.751424,0.686764923 708.127137,1.01748371 C676.370434,12.3710073 647.489854,25.3477229 621.485396,39.9476305 C517.18929,98.5034957 428.048351,127.355306 354.062579,126.503062 C280.078786,127.355306 190.937847,98.5034957 86.6417401,39.9476305 C60.6372825,25.3477229 31.7567025,12.3710073 0,1.01748371 C118.375712,0.686764923 236.751424,0.521405532 355.127137,0.521405532 L353,0.521405532 L355.127137,0.521405532 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-1)" style="mix-blend-mode: multiply;"></path>
+            <path d="M13.4075354,0.972577879 C10.4670584,-0.150550573 124.373592,-0.300941355 355.127137,0.521405532 L354.063037,0.517 L359.885313,0.497854776 C585.94406,-0.269754394 697.500109,-0.0903519454 694.553461,1.03606212 C668.091789,11.1515561 643.735767,22.4554122 621.485396,34.9476305 C517.18929,93.5034957 428.048351,122.355306 354.062579,121.503062 C280.078786,122.355306 190.937847,93.5034957 86.6417401,34.9476305 C64.3448104,22.4292723 39.9334088,11.1042548 13.4075354,0.972577879 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-2)" style="mix-blend-mode: multiply;"></path>
+        </g>
+    </g>
+</svg>
